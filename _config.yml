@@ -339,3 +339,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: archive
+      author_profile: true
+      share: true

@@ -7,5 +7,5 @@ entries_layout: grid
 classes: wide
 ---
 
-A curated list of assignments completed during my Bsc. Econometrics & Data science.
+A curated list of assignments completed during my Bsc. Econometrics & Data science.\
 Last update: Dec 2024
