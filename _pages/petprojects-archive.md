@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-A curated list of personal projects, fueled by curiosity.
+A curated list of personal projects, fueled by curiosity. TEST
