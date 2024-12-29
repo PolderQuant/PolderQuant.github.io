@@ -3,6 +3,8 @@ title:  "Multivariate T & Stocks"
 excerpt: "An overview of simulating and testing a multivariate t-distribution and applying it to real stock returns."
 header:
 teaser: /assets/img/multivariate_t/teaser.jpg
+layout: collection # Ensure it matches your theme logic
+collection: uniprojects
 ---
 
 # Introduction
