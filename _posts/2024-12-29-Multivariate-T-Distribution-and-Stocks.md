@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Multivariate T & Stocks 5"
+title:  "Multivariate T & Stocks 6"
 ---
 
 # Introduction
