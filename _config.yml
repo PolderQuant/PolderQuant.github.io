@@ -339,11 +339,3 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: uniprojects
-      values:
-      layout: archive
-      author_profile: true
-      share: true
