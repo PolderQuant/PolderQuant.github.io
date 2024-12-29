@@ -331,7 +331,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: uniprojects
     values:
       layout: single
       author_profile: true
