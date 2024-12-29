@@ -115,7 +115,9 @@ analytics:
 author:
   name             : "Samuel Bakker"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Student Econometrics & Data Science @ VU Amsterdam | Enthusiast in Quantitative Finance | Passionate About Algorithmic Trading, Quantitative Research, and Financial Market Analysis"
+  bio              : "Student Econometrics & Data Science @ VU Amsterdam
+  Enthusiast in Quantitative Finance
+  Passionate About Algorithmic Trading, Quantitative Research, and Financial Market Analysis"
   location         : "Amsterdam"
   email            :
   links:
