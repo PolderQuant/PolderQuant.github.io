@@ -8,3 +8,5 @@ main:
   #   url: /tags/
   - title: "CV"
     url: /assets/pdf/cv.pdf
+  - title: "Sample Collections"
+    url: /collection-archive/
