@@ -2,10 +2,10 @@
 title: University Assignments
 layout: collection
 permalink: /uniprojects/
-collection: uniprojects
+collection: uniassignments
 entries_layout: grid
 classes: wide
 ---
 
 A curated list of assignments completed during my Bsc. Econometrics & Data science.\
-Last update: Dec 2024 -1
+Last update: Dec 2024
