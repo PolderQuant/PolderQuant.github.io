@@ -278,6 +278,10 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+collections:
+  uniprojects:
+    output: true
+    permalink: /:collection/:path/
 
 # Archives
 #  Type
