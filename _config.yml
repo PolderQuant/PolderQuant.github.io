@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Samuel Bakker"
-  avatar           : "/assets/img/headshot.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Student Econometrics & Data Science @ VU Amsterdam. Passionate About Algorithmic Trading, Quantitative Research, and Financial Market Analysis"
   location         : "Amsterdam"
   email            :
