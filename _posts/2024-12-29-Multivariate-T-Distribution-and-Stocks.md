@@ -121,7 +121,7 @@ An executive suggests Amazon’s daily return is **1%**, so we test:
 Using a Wald test at 5% significance:
 
 - Test statistic [![\\ \approx 240.5862](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Capprox%20240.5862)](#_)  
-- Critical  [![\\ \chi^2_1](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cchi%5E2_1)] value at 5% = 3.841  
+- Critical  ![\\ \chi^2_1](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cchi%5E2_1) value at 5% = 3.841  
 
 Since [![\\ 240.5862 \gg 3.841](https://latex.codecogs.com/svg.latex?%5C%5C%20240.5862%20%5Cgg%203.841)](#_), we **reject** [![\\ H_0](https://latex.codecogs.com/svg.latex?%5C%5C%20H_0)](#_), implying Amazon’s daily return is **not** 1%. The estimated return [![\\ \approx 0.0527\%](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Capprox%200.0527%5C%25)](#_) is notably lower.
 
@@ -138,7 +138,7 @@ Another claim is that Disney and Netflix have **equal** expected returns:
 Again, a Wald test at 5% significance yields:
 
 - Test statistic [![\\ \approx 2.4335](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Capprox%202.4335)](#_)
-- Critical [![\\ \chi^2_1](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cchi%5E2_1)] value at 5% = 3.841  
+- Critical ![\\ \chi^2_1](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cchi%5E2_1) value at 5% = 3.841  
 
 Since [![\\ 2.4335 < 3.841](https://latex.codecogs.com/svg.latex?%5C%5C%202.4335%20%3C%203.841)](#_), we **fail to reject** [![\\ H_0](https://latex.codecogs.com/svg.latex?%5C%5C%20H_0)](#_). Statistically, we don’t find enough evidence to say Disney’s and Netflix’s expected daily returns differ.
 
