@@ -114,10 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Samuel Bakker"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Student Econometrics & Data Science @ VU Amsterdam
-  Enthusiast in Quantitative Finance
-  Passionate About Algorithmic Trading, Quantitative Research, and Financial Market Analysis"
+  avatar           : "/assets/img/headshot.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Student Econometrics & Data Science @ VU Amsterdam. Passionate About Algorithmic Trading, Quantitative Research, and Financial Market Analysis"
   location         : "Amsterdam"
   email            :
   links:
@@ -141,7 +139,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/samuel-ann-bakker/"
+      url: "https://www.linkedin.com/in/samuel-ann-bakker/"
 
 # Site Footer
 footer:
