@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "PolderQuant"
 title_separator          : "-"
-subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
+subtitle                 : "Updated: Dec 2025" # site tagline that appears below site title in masthead
 name                     : "Samuel Bakker"
 description              : "A personal blog for Quantitative Finance, Mathematics, Economics and Investing"
 url                      : "https://polderquant.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
