@@ -1,8 +1,8 @@
 ---
-title:  "REPORT of ASSIGNMENT 1: Multivariate T & Stocks"
+title:  "Multivariate T & Stocks"
 excerpt: "An overview of simulating and testing a multivariate t-distribution and applying it to real stock returns."
 header:
-  teaser: /assets/img/multivariate_t/teaser.jpg
+teaser: /assets/img/multivariate_t/teaser.jpg
 ---
 
 # Introduction
