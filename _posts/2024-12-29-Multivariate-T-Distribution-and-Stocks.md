@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Multivariate T & Stocks 6"
+title:  "Multivariate T & Stocks 7"
 ---
 
 # Introduction
@@ -75,8 +75,8 @@ Below is a **summary table** of our main parameters of interest (bias and averag
 
 **Key Takeaways**  
 - As b grows, estimates become more accurate (lower bias) and more precise (lower standard errors).  
-- The rejection rates of ![\\ \nu](https://latex.codecogs.com/svg.latex?%5C%5C%20nu)(#_) hover around the nominal 5% level, confirming appropriate test performance.  
-- Estimating ![\\ \nu](https://latex.codecogs.com/svg.latex?%5C%5C%20nu)(#_) accurately can be challenging for small sample sizes.
+- The rejection rates of [![\\ \nu](https://latex.codecogs.com/svg.latex?%5C%5C%20nu)](#_) hover around the nominal 5% level, confirming appropriate test performance.  
+- Estimating [![\\ \nu](https://latex.codecogs.com/svg.latex?%5C%5C%20nu)](#_) accurately can be challenging for small sample sizes.
 
 ![](/assets/img/multivariate_t/afb1.png)  
 ![](/assets/img/multivariate_t/afb2.png)
