@@ -1,4 +1,4 @@
 ---
-permalink: /assets/pdf/cv.pdf
+permalink: /cv/
 title: "Curriculum Vitae"
 ---
