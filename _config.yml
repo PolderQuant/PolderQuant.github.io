@@ -342,8 +342,8 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
-    values:
+      type: uniprojects
+      values:
       layout: archive
       author_profile: true
       share: true
