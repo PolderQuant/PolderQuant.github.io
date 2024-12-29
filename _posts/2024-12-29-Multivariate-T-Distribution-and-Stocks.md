@@ -50,7 +50,7 @@ with:
 
 5. **Bias**: Assess bias by comparing the mean estimate to the true parameter values.
 
-Below is a **summary table** of our main parameters of interest (bias and average estimates for $$\mu_1, \Sigma_{3,1}, \text{ and } \nu$$), as well as the rejection rates for the hypothesis test. Note how, as $$n$$ increases, the estimates converge to the true values and the standard errors decrease.
+Below is a **summary table** of our main parameters of interest (bias and average estimates for [![\\ \mu_1, \Sigma_{3,1}, \text{ and } \nu](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cmu_1%2C%20%5CSigma_%7B3%2C1%7D%2C%20%5Ctext%7B%20and%20%7D%20%5Cnu)](#_) ), as well as the rejection rates for the hypothesis test. Note how, as n increases, the estimates converge to the true values and the standard errors decrease.
 
 | n   | Bias [![\\ \widehat{\mu_1}](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cwidehat%7B%5Cmu_1%7D)](#_) | Avg [![\\ \widehat{\mu_1}](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cwidehat%7B%5Cmu_1%7D)](#_) | Bias $$\widehat{\Sigma_{3,1}}$$ | Avg [![\\ \widehat{\Sigma_{3,1}}](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cwidehat%7B%5CSigma_%7B3%2C1%7D%7D)](#_)| Bias [![\\ \hat{\nu}](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Chat%7B%5Cnu%7D)](#_)| Avg [![\\ \hat{\nu}](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Chat%7B%5Cnu%7D)](#_) |
 |-----|--------------------------|--------------------------|---------------------------------|--------------------------------|--------------------|-------------------|
@@ -99,8 +99,6 @@ With our estimator verified, we now turn to real data: daily returns of **Disney
 
   [![\\ \hat{\Sigma} = \\     \begin{pmatrix} \\       2.1926 & 1.1766 & 2.9032 & 1.2703\\ \\       1.1766 & 2.0557 & 3.8695 & 0.7594\\ \\       2.9032 & 3.8695 & 0.3633 & 0.3421\\ \\       1.2703 & 0.7594 & 0.3421 & 1.2556 \\     \end{pmatrix}](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Chat%7B%5CSigma%7D%20%3D%20%5C%5C%20%20%20%20%20%5Cbegin%7Bpmatrix%7D%20%5C%5C%20%20%20%20%20%20%202.1926%20%26%201.1766%20%26%202.9032%20%26%201.2703%5C%5C%20%5C%5C%20%20%20%20%20%20%201.1766%20%26%202.0557%20%26%203.8695%20%26%200.7594%5C%5C%20%5C%5C%20%20%20%20%20%20%202.9032%20%26%203.8695%20%26%200.3633%20%26%200.3421%5C%5C%20%5C%5C%20%20%20%20%20%20%201.2703%20%26%200.7594%20%26%200.3421%20%26%201.2556%20%5C%5C%20%20%20%20%20%5Cend%7Bpmatrix%7D)](#_)
 
-  *Std. errors of [![\\ \hat{\Sigma}](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Chat%7B%5CSigma%7D)](#_) follow similarly (element-wise).*
-
 - **Degrees of freedom** [![\\ \hat{\nu} = 3.2713](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Chat%7B%5Cnu%7D%20%3D%203.2713)](#_)  
   *Std. error of [![\\ \hat{\nu} = 0.2126](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Chat%7B%5Cnu%7D%20%3D%200.2126)](#_)*
 
@@ -123,7 +121,7 @@ An executive suggests Amazon’s daily return is **1%**, so we test:
 Using a Wald test at 5% significance:
 
 - Test statistic [![\\ \approx 240.5862](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Capprox%20240.5862)](#_)  
-- Critical [![\\ \chi^2_1](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cchi%5E2_1)](#_) value at 5% = 3.841  
+- Critical  [![\\ \chi^2_1](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cchi%5E2_1)] value at 5% = 3.841  
 
 Since [![\\ 240.5862 \gg 3.841](https://latex.codecogs.com/svg.latex?%5C%5C%20240.5862%20%5Cgg%203.841)](#_), we **reject** [![\\ H_0](https://latex.codecogs.com/svg.latex?%5C%5C%20H_0)](#_), implying Amazon’s daily return is **not** 1%. The estimated return [![\\ \approx 0.0527\%](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Capprox%200.0527%5C%25)](#_) is notably lower.
 
@@ -140,7 +138,7 @@ Another claim is that Disney and Netflix have **equal** expected returns:
 Again, a Wald test at 5% significance yields:
 
 - Test statistic [![\\ \approx 2.4335](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Capprox%202.4335)](#_)
-- Critical [![\\ \chi^2_1](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cchi%5E2_1)](#_) value at 5% = 3.841  
+- Critical [![\\ \chi^2_1](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cchi%5E2_1)] value at 5% = 3.841  
 
 Since [![\\ 2.4335 < 3.841](https://latex.codecogs.com/svg.latex?%5C%5C%202.4335%20%3C%203.841)](#_), we **fail to reject** [![\\ H_0](https://latex.codecogs.com/svg.latex?%5C%5C%20H_0)](#_). Statistically, we don’t find enough evidence to say Disney’s and Netflix’s expected daily returns differ.
 
