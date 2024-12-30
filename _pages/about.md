@@ -1,13 +1,11 @@
 ---
 permalink: /
-#title: "Samuel Bakker"
+title: "Welcome to My Corner of the Internet!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Welcome to My Corner of the Internet!
 
 Hi there! I'm Samuel, an Econometrics & Data Science student at Vrije Universiteit Amsterdam. If you’ve stumbled upon this blog, welcome! I’m here to share my journey, thoughts, and experiments in the fascinating world of quantitative finance, mathematics, and whatever else I find interesting along the way.
 
