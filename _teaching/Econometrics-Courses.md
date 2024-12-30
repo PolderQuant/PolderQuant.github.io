@@ -36,10 +36,11 @@ Econometrics I lays the foundation for understanding and applying linear regress
 - Prediction and prediction intervals  
 
 ### Literature
-- **Period 1**: J.H. Stock and M.W. Watson, *Introduction to Econometrics* (4th ed.).  
-- **Period 2**:  
+- Period 1: J.H. Stock and M.W. Watson, *Introduction to Econometrics* (4th ed.).  
+- Period 2:  
   - J.R. Magnus, Introduction to the Theory of Econometrics (2017).  
-  - J.R. Magnus and S. Telg, Mastering Econometrics: Exercises and Solutions (2021).  
+  - J.R. Magnus and S. Telg, Mastering Econometrics: Exercises and Solutions (2021).
+  
 ---
 
 # Econometrics II
@@ -70,6 +71,7 @@ Econometrics II addresses issues that arise when the classical linear regression
 
 ### Literature
 - Wooldridge (2013), Introductory Econometrics, A Modern Approach (5th international edition).
+
 ---
 
 # Econometrics III
@@ -96,7 +98,8 @@ Econometrics III focuses on multivariate econometric methods including panel dat
 ### Literature
 - H. Lütkepohl, New Introduction to Multiple Time Series Analysis (2006)  
 - J.D. Hamilton, Time Series Analysis (1994)  
-- B.H. Baltagi, Econometric Analysis of Panel Data (5th ed., 2013)  
+- B.H. Baltagi, Econometric Analysis of Panel Data (5th ed., 2013) 
+ 
 ---
 
 # Financial Econometrics
