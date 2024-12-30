@@ -2,7 +2,7 @@
 title: "Econometrics Courses"
 collection: teaching
 type: "BSc. Econometrics & Data science coursework"
-permalink: /teaching/2024-Econometric-Courses
+permalink: /teaching/Econometric-Courses
 venue: "VU Amsterdam, School of Business and Economics"
 date: 2024-01-01
 location: "Amsterdam, The Netherlands"
@@ -36,8 +36,8 @@ Econometrics I lays the foundation for understanding and applying linear regress
 - Prediction and prediction intervals  
 
 ### Literature
-- Period 1: J.H. Stock and M.W. Watson, *Introduction to Econometrics* (4th ed.).  
-- Period 2:  
+- **Period 1**: J.H. Stock and M.W. Watson, *Introduction to Econometrics* (4th ed.).  
+- **Period 2**:  
   - J.R. Magnus, Introduction to the Theory of Econometrics (2017).  
   - J.R. Magnus and S. Telg, Mastering Econometrics: Exercises and Solutions (2021).
   
@@ -74,7 +74,7 @@ Econometrics II addresses issues that arise when the classical linear regression
 
 ---
 
-# Econometrics III
+# Econometrics III (Elective)
 **Coordinator & Examiner:** prof. dr. S.J. Koopman  
 Econometrics III focuses on multivariate econometric methods including panel data analysis and multivariate time-series techniques (VAR, cointegration, VECM). It is a more advanced course blending theory, practice, and empirical analysis.
 ### Objectives
@@ -102,7 +102,7 @@ Econometrics III focuses on multivariate econometric methods including panel dat
 
 ---
 
-# Financial Econometrics
+# Financial Econometrics (Elective)
 **Coordinator & Examiner:** dr. P. Gorgi  
 Financial Econometrics bridges theoretical models and real-world financial data applications. This course introduces time-varying parameter models widely used in Finance and emphasizes both theoretical understanding and computational implementation.
 ### Objectives
