@@ -47,7 +47,6 @@ By the end of this course, you will be able to:
 # Econometrics II
 ### Course Description
 **Coordinator & Examiner:** dr. L.F. Hoogerheide  
-
 Econometrics II addresses issues that arise when the classical linear regression model assumptions are violated and explores various model extensions for more complex data situations.
 
 ### Objectives
@@ -82,7 +81,6 @@ By the end of this course, you will be able to:
 # Econometrics III
 ### Course Description
 **Coordinator & Examiner:** prof. dr. S.J. Koopman  
-
 Econometrics III focuses on multivariate econometric methods including panel data analysis and multivariate time-series techniques (VAR, cointegration, VECM). It is a more advanced course blending theory, practice, and empirical analysis.
 
 ### Objectives
@@ -115,7 +113,6 @@ By the end of this course, you will be able to:
 
 ### Course Description
 **Coordinator & Examiner:** dr. P. Gorgi  
-
 Financial Econometrics bridges theoretical models and real-world financial data applications. This course introduces time-varying parameter models widely used in Finance and emphasizes both theoretical understanding and computational implementation.
 
 ### Objectives
