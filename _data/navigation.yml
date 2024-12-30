@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Portfolio"
-    url: /portfolio/
+    url: /_portfolio/
   - title: "University Assignments"
-    url: /uniprojects/
+    url: /_uniprojects/
   - title: "Projects"
-    url: /petprojects/
+    url: /_petprojects/
   # - title: "Tags"
   #   url: /tags/
   - title: "CV"
