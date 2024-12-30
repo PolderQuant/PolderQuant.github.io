@@ -5,10 +5,26 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+<<<<<<< HEAD
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: PolderQuant
+email: 
+description: >- # this means to ignore newlines until "baseurl:"
+  V1 - A personal blog for Quantitative Finance, Mathematics, Economics and Investing
+twitter_username: 
+github_username: 
+minimal_mistakes_skin: air
+search: true
+=======
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+>>>>>>> parent of ccd673bf (test)
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
@@ -113,6 +129,12 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
+  name   : "Samuel Bakker"
+  avatar : "/assets/img/headshot.png"
+  bio    : "Student Econometrics & Data Science @ VU Amsterdam. Passionate About Algorithmic Trading, Quantitative Research, and Financial Market Analysis"
+  links:
+=======
   name             : "Samuel Bakker"
   avatar           : "/assets/img/headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Student Econometrics & Data Science @ VU Amsterdam. Passionate About Algorithmic Trading, Quantitative Research, and Financial Market Analysis"
@@ -137,6 +159,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+>>>>>>> parent of ccd673bf (test)
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-ann-bakker/"
@@ -144,6 +167,11 @@ author:
 # Site Footer
 footer:
   links:
+<<<<<<< HEAD
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/samuel-ann-bakker/"
+=======
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -203,6 +231,7 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+>>>>>>> parent of ccd673bf (test)
 
 
 # Conversion
