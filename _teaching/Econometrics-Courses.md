@@ -97,9 +97,9 @@ By the end of this course, you will be able to:
 - Cointegration and vector error correction models  
 
 ### Literature
-- H. Lütkepohl, *New Introduction to Multiple Time Series Analysis* (2006)  
-- J.D. Hamilton, *Time Series Analysis* (1994)  
-- B.H. Baltagi, *Econometric Analysis of Panel Data* (5th ed., 2013)  
+- H. Lütkepohl, New Introduction to Multiple Time Series Analysis (2006)  
+- J.D. Hamilton, Time Series Analysis (1994)  
+- B.H. Baltagi, Econometric Analysis of Panel Data (5th ed., 2013)  
 ---
 
 # Financial Econometrics
