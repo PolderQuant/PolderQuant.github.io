@@ -137,11 +137,6 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-ann-bakker/"
   
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
@@ -261,18 +256,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: uniprojects
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
