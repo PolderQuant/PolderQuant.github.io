@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2024-Econometric-Courses
 venue: "VU Amsterdam, School of Business and Economics"
-#date: 2024-01-01
+date: 2024-01-01
 location: "Amsterdam, The Netherlands"
 ---
 Econometric theory ranges from foundational linear regression methods—covering OLS, WLS, and maximum likelihood estimation—to advanced panel data and multivariate time-series models, culminating in specialized financial applications such as GARCH. Across all modules, students refine their statistical, computational, and empirical skills for rigorous data analysis and informed economic modeling.
