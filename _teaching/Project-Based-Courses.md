@@ -13,7 +13,7 @@ These project-based courses involve the application of practical data science me
 **Coordinator & Examiner**: dr. G. Xiao  
 This course provides an in-depth study of advanced Monte Carlo simulation techniques and their applications in finance, economics, and business. Students learn to model and analyze complex stochastic systems, design and conduct simulation experiments, and interpret results in real-world contexts.
 
-#### Objectives
+### Objectives
 - Develop the ability to model real-life problems using Monte Carlo simulation and Markov Chains.  
 - Gain proficiency in analyzing simulation outputs and understanding performance metrics.  
 - Employ simulation in optimization and learning contexts.  
