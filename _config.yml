@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Software Developer
-email: khanhhh89@gmail.com
+title: PolderQuant
+email: sambakker1006@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Vision/ Machine Learning / 3D. Passionate about how machines see the world
-twitter_username: HaHuyKhanh
-github_username: khanhha
-minimal_mistakes_skin: air
+  V1 - A personal blog for Quantitative Finance, Mathematics, Economics and Investing
+twitter_username: PolderQuant
+github_username: PolderQuant
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -56,19 +56,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Khanh Ha"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Computer Vision/ Machine Learning / 3D. Interested in how machines understand the world"
+  name   : "Samuel Bakker"
+  avatar : "/assets/img/headshot.png"
+  bio    : "Student Econometrics & Data Science @ VU Amsterdam. Passionate About Algorithmic Trading, Quantitative Research, and Financial Market Analysis""
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/khanhha"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/samuel-ann-bakker/"
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/khanhha"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/samuel-ann-bakker/"
 
 collections:
   portfolio:
