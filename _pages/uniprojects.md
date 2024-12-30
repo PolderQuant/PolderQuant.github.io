@@ -1,9 +1,16 @@
 ---
-layout: archive
-title: "Posts by Collection"
-permalink: /collection-archive/
+title: University Assignments
+layout: collection
+permalink: /uniprojects/
+collection: uniprojects
+entries_layout: grid
+classes: wide
 author_profile: true
 ---
+
+
+A curated list of assignments completed during my Bsc. Econometrics & Data science.\
+Last update: Dec 2024 - 6
 
 {% capture written_label %}'None'{% endcapture %}
 
@@ -15,7 +22,7 @@ author_profile: true
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
-  {% for post in collection.portfolio %}
+  {% for post in collection.uniprojects %}
     {% unless collection.output == false or collection.label == "posts" %}
       {% include archive-single.html %}
     {% endunless %}
