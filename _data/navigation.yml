@@ -1,14 +1,4 @@
 # main links
 main:
-  - title: "Portfolio"
-    url: /_portfolio/
-  - title: "University Assignments"
-    url: /_uniprojects/
-  - title: "Projects"
-    url: /_petprojects/
-  # - title: "Tags"
-  #   url: /tags/
   - title: "CV"
     url: /assets/pdf/cv.pdf
-  - title: "Sample Collections"
-    url: /collection-archive/
