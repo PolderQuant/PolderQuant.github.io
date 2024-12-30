@@ -1,7 +1,7 @@
 ---
-title: "Econometric Courses"
+title: "EconometricS Courses"
 collection: teaching
-type: "Undergraduate courses"
+type: "BSc. Econometrics & Data science courses"
 permalink: /teaching/2024-Econometric-Courses
 venue: "VU Amsterdam, School of Business and Economics"
 date: 2024-01-01
