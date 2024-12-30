@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Samuel Bakker"
+#title: "Samuel Bakker"
 author_profile: true
 redirect_from: 
   - /about/
