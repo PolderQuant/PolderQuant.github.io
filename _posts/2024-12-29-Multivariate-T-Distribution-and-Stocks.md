@@ -2,7 +2,6 @@
 layout: post
 title:  "Multivariate T & Stocks 10"
 author_profile: true
-
 ---
 
 # Introduction
@@ -95,7 +94,7 @@ With our estimator verified, we now turn to real data: daily returns of **Disney
 
   ![\\ \hat{\mu} =  \\     \begin{pmatrix} \\       -0.0621 \\ \\        0.0527 \\ \\        0.0420 \\ \\       -0.0115 \\     \end{pmatrix} \\ = \begin{pmatrix} \\       Disney \\ \\       Amazon \\ \\       Netflix\\ \\       AT\&T \\     \end{pmatrix}](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Chat%7B%5Cmu%7D%20%3D%20%20%5C%5C%20%20%20%20%20%5Cbegin%7Bpmatrix%7D%20%5C%5C%20%20%20%20%20%20%20-0.0621%20%5C%5C%20%5C%5C%20%20%20%20%20%20%20%200.0527%20%5C%5C%20%5C%5C%20%20%20%20%20%20%20%200.0420%20%5C%5C%20%5C%5C%20%20%20%20%20%20%20-0.0115%20%5C%5C%20%20%20%20%20%5Cend%7Bpmatrix%7D%20%5C%5C%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5C%5C%20%20%20%20%20%20%20Disney%20%5C%5C%20%5C%5C%20%20%20%20%20%20%20Amazon%20%5C%5C%20%5C%5C%20%20%20%20%20%20%20Netflix%5C%5C%20%5C%5C%20%20%20%20%20%20%20AT%5C%26T%20%5C%5C%20%20%20%20%20%5Cend%7Bpmatrix%7D)
 
-  *Std. errors of ![\\ \hat{\mu} = (0.0528, 0.0611, 0.0701, 0.0399)](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Chat%7B%5Cmu%7D%20%3D%20(0.0528%2C%200.0611%2C%200.0701%2C%200.0399))*
+  *Std. errors of ![\\ \hat{\mu} = (0.0527, 0.0611, 0.0701, 0.0399)](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Chat%7B%5Cmu%7D%20%3D%20(0.0528%2C%200.0611%2C%200.0701%2C%200.0399))*
 
 - **Scale matrix** ![\\ \hat{\Sigma}](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Chat%7B%5CSigma%7D):
 
