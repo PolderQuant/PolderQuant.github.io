@@ -23,7 +23,6 @@ Econometrics I lays the foundation for understanding and applying linear regress
 - Predict outcomes and assess model fit.
 
 ### Learning Outcomes
-By the end of this course, you will be able to:
 - Formulate and estimate linear regression models.  
 - Test statistical hypotheses and construct confidence intervals.  
 - Evaluate model assumptions and check model fit.  
@@ -54,7 +53,6 @@ Econometrics II addresses issues that arise when the classical linear regression
 - Study tobit models for censored/truncated data.
 
 ### Learning Outcomes
-By the end of this course, you will be able to:
 - Detect and correct for heteroskedasticity and serial correlation.  
 - Identify and handle endogeneity via instrumental variables.  
 - Model discrete outcomes using logit/probit approaches.  
@@ -83,7 +81,6 @@ Econometrics III focuses on multivariate econometric methods including panel dat
 - Understand estimation techniques for panel and time-series models.
 
 ### Learning Outcomes
-By the end of this course, you will be able to:
 - Formulate and estimate panel data models (fixed effects, random effects, two-error component models).  
 - Set up and interpret vector autoregressive (VAR) models.  
 - Conduct cointegration analysis and build vector error correction models (VECM).  
@@ -112,7 +109,6 @@ Financial Econometrics bridges theoretical models and real-world financial data 
 - Prepare for Master’s-level courses in (Financial) Econometrics and Bachelor’s thesis work.
 
 ### Learning Outcomes
-By the end of this course, you will be able to:
 - Design, estimate, and analyze time-varying parameter models.  
 - Understand key modeling assumptions and their implications.  
 - Apply computational methods to handle real financial datasets.  
