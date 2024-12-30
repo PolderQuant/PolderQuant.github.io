@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "University Assignments"
     url: /uniprojects/
   - title: "Projects"

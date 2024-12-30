@@ -136,7 +136,11 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-ann-bakker/"
-
+  
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Conversion
 markdown: kramdown
