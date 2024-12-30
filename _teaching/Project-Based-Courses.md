@@ -59,7 +59,7 @@ This course immerses students in a real-world data science case study focused on
 
 ---
 
-# Science Practical 
+# Data Science Practical 
 **Coordinator & Examiner**: dr. J.M.A. Telg & dr. M. Friedrich  
 The Science Practical focuses on translating econometrics and data science concepts into hands-on solutions. Students apply both parametric (linear regression) and non-parametric methods to real-world data, then conduct simulation studies to compare these approaches.
 

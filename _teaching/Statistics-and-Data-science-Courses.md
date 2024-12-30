@@ -7,67 +7,6 @@ venue: "VU Amsterdam, School of Business and Economics"
 date: 2024-01-01
 location: "Amsterdam, The Netherlands"
 ---
-These courses cover essential probability theory, inferential statistics, and parametric modeling, establishing a rigorous framework for analyzing real-world data in fields such as finance, healthcare, and beyond. Building on these foundations, advanced techniques are introduced through multivariate statistics for high-dimensional data exploration and data science methods for robust machine learning solutions.
-
-# Introduction to Data Science
-**Coordinator & Examiner:** dr. Y. Lin  
-Introduction to Data Science 2024-2025 provides an elementary overview of probability theory tailored to data scientists. The course emphasizes the mathematical foundations of modeling while consistently illustrating practical applications in data science.
-
-### Objectives
-- Gain a detailed understanding of probability theory and its axioms  
-- Master core concepts such as random variables, independence, and limit theorems  
-- Recognize how probability theory underpins data science methods  
-- Build strong analytical skills for data-oriented problem-solving  
-
-### Course Content
-- Combinatorial analysis  
-- Probability axioms and the concepts of conditional probability and independence  
-- Random variables: discrete, continuous, and jointly distributed  
-- Expectation: moments, moment generating functions, sums of random variables  
-- Limit theorems: central limit theorem, laws of large numbers  
-
-### Key Topics
-- Elementary probability and combinatorial tools  
-- Discrete and continuous distributions  
-- Mathematical expectation and variance  
-- Convergence concepts and limit theorems  
-- Practical links between probability theory and data analysis  
-
-### Literature
-- Ross, S. (10th ed.). A First Course in Probability. Pearson.  
-- Casella, G., & Berger, R.L. (2nd ed.). Statistical Inference. Duxbury Press.
-
----
-
-# Statistics
-**Coordinator & Examiner:** E.J.J. Wijler & dr. J. Cai 
-Statistics introduces the fundamental concepts of mathematical statistics, focusing on parametric methods to formulate models, derive estimators, perform hypothesis tests, and construct confidence intervals.
-
-### Objectives
-- Understand and formulate statistical models  
-- Develop skills to derive diverse estimators and test hypotheses  
-- Construct confidence intervals and interpret results  
-- Use probability distributions effectively in data-driven research  
-
-### Course Content
-- Statistical models: foundations and assumptions  
-- Point estimation: methods and properties  
-- Hypothesis testing: formulating and executing tests  
-- Confidence intervals: derivation and interpretation  
-- Parametric statistics: role of finite-parameter distributions  
-
-### Key Topics
-- Probability theory refresher  
-- Estimation principles and techniques  
-- Hypothesis testing for diverse scenarios  
-- Practical illustrations of statistical inference  
-- Linking theoretical foundations to real data problems  
-
-### Literature
-- Casella, G., & Berger, R.L. (2008). Statistical Inference (International 2nd ed.). Cengage Learning.  
-- Lecture notes and slides (provided by instructors).
-
----
 
 # Multivariate Statistics
 **Coordinator & Examiner:** dr. I. De Vos  
@@ -122,3 +61,64 @@ Data Science Methods focuses on the core statistical and machine learning method
 ### Literature
 - Friedman, J., Hastie, T., & Tibshirani, R. (2009). The Elements of Statistical Learning (2nd ed.). Springer.  
 - Hardle, W. K., Muller, M., Sperlich, S., & Werwatz, A. (2012). Nonparametric and Semiparametric Models. Springer.
+
+---
+
+# Statistics
+**Coordinator & Examiner:** E.J.J. Wijler & dr. J. Cai 
+Statistics introduces the fundamental concepts of mathematical statistics, focusing on parametric methods to formulate models, derive estimators, perform hypothesis tests, and construct confidence intervals.
+
+### Objectives
+- Understand and formulate statistical models  
+- Develop skills to derive diverse estimators and test hypotheses  
+- Construct confidence intervals and interpret results  
+- Use probability distributions effectively in data-driven research  
+
+### Course Content
+- Statistical models: foundations and assumptions  
+- Point estimation: methods and properties  
+- Hypothesis testing: formulating and executing tests  
+- Confidence intervals: derivation and interpretation  
+- Parametric statistics: role of finite-parameter distributions  
+
+### Key Topics
+- Probability theory refresher  
+- Estimation principles and techniques  
+- Hypothesis testing for diverse scenarios  
+- Practical illustrations of statistical inference  
+- Linking theoretical foundations to real data problems  
+
+### Literature
+- Casella, G., & Berger, R.L. (2008). Statistical Inference (International 2nd ed.). Cengage Learning.  
+- Lecture notes and slides (provided by instructors).
+
+---
+These courses cover essential probability theory, inferential statistics, and parametric modeling, establishing a rigorous framework for analyzing real-world data in fields such as finance, healthcare, and beyond. Building on these foundations, advanced techniques are introduced through multivariate statistics for high-dimensional data exploration and data science methods for robust machine learning solutions.
+
+# Introduction to Data Science
+**Coordinator & Examiner:** dr. Y. Lin  
+Introduction to Data Science 2024-2025 provides an elementary overview of probability theory tailored to data scientists. The course emphasizes the mathematical foundations of modeling while consistently illustrating practical applications in data science.
+
+### Objectives
+- Gain a detailed understanding of probability theory and its axioms  
+- Master core concepts such as random variables, independence, and limit theorems  
+- Recognize how probability theory underpins data science methods  
+- Build strong analytical skills for data-oriented problem-solving  
+
+### Course Content
+- Combinatorial analysis  
+- Probability axioms and the concepts of conditional probability and independence  
+- Random variables: discrete, continuous, and jointly distributed  
+- Expectation: moments, moment generating functions, sums of random variables  
+- Limit theorems: central limit theorem, laws of large numbers  
+
+### Key Topics
+- Elementary probability and combinatorial tools  
+- Discrete and continuous distributions  
+- Mathematical expectation and variance  
+- Convergence concepts and limit theorems  
+- Practical links between probability theory and data analysis  
+
+### Literature
+- Ross, S. (10th ed.). A First Course in Probability. Pearson.  
+- Casella, G., & Berger, R.L. (2nd ed.). Statistical Inference. Duxbury Press.
