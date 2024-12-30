@@ -1,7 +1,7 @@
 ---
 title: "Econometrics Courses"
 collection: teaching
-type: "BSc. Econometrics & Data science courses"
+type: "BSc. Econometrics & Data science coursework"
 permalink: /teaching/2024-Econometric-Courses
 venue: "VU Amsterdam, School of Business and Economics"
 date: 2024-01-01
@@ -99,7 +99,7 @@ Econometrics III focuses on multivariate econometric methods including panel dat
 - H. Lütkepohl, New Introduction to Multiple Time Series Analysis (2006)  
 - J.D. Hamilton, Time Series Analysis (1994)  
 - B.H. Baltagi, Econometric Analysis of Panel Data (5th ed., 2013) 
- 
+
 ---
 
 # Financial Econometrics
