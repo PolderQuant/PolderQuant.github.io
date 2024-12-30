@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2024-Econometric-Courses
 venue: "VU Amsterdam, School of Business and Economics"
-date: 2024-01-01
+#date: 2024-01-01
 location: "Amsterdam, The Netherlands"
 ---
 
