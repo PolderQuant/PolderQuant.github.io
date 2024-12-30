@@ -7,7 +7,7 @@ venue: "VU Amsterdam, School of Business and Economics"
 date: 2023-01-01
 location: "Amsterdam, The Netherlands"
 ---
-These project-based courses involve the application of practical data science methods—ranging from Monte Carlo simulations and Markov chain modeling to parametric and non-parametric approaches—and applying them to real-world business, finance, and economics challenges. Across all modules, students enhance their coding, analytical, and teamwork skills, culminating in robust academic writing and industry-relevant expertise.
+These project-based courses involve the application of practical data science methods—ranging from Monte Carlo simulations, Markov chain modeling and Natural Language Processing (NLP) to parametric and non-parametric approaches—and applying them to real-world business, finance, and economics challenges. Across all modules, students enhance their coding, analytical, and teamwork skills, culminating in robust academic writing and industry-relevant expertise.
 
 # Advanced Simulation for Finance, Economics and Business
 **Coordinator & Examiner**: dr. G. Xiao  
