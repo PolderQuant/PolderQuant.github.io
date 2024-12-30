@@ -7,6 +7,7 @@ venue: "VU Amsterdam, School of Business and Economics"
 date: 2024-01-01
 location: "Amsterdam, The Netherlands"
 ---
+These courses cover essential probability theory, inferential statistics, and parametric modeling, establishing a rigorous framework for analyzing real-world data in fields such as finance, healthcare, and beyond. Building on these foundations, advanced techniques are introduced through multivariate statistics for high-dimensional data exploration and data science methods for robust machine learning solutions.
 
 # Multivariate Statistics
 **Coordinator & Examiner:** dr. I. De Vos  
@@ -93,7 +94,6 @@ Statistics introduces the fundamental concepts of mathematical statistics, focus
 - Lecture notes and slides (provided by instructors).
 
 ---
-These courses cover essential probability theory, inferential statistics, and parametric modeling, establishing a rigorous framework for analyzing real-world data in fields such as finance, healthcare, and beyond. Building on these foundations, advanced techniques are introduced through multivariate statistics for high-dimensional data exploration and data science methods for robust machine learning solutions.
 
 # Introduction to Data Science
 **Coordinator & Examiner:** dr. Y. Lin  
