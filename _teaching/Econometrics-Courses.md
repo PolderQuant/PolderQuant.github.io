@@ -1,5 +1,5 @@
 ---
-title: "EconometricS Courses"
+title: "Econometrics Courses"
 collection: teaching
 type: "BSc. Econometrics & Data science courses"
 permalink: /teaching/2024-Econometric-Courses
