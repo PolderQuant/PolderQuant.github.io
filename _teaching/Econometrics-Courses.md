@@ -11,7 +11,6 @@ location: "Amsterdam, The Netherlands"
 # Econometrics I
 ### Course Description 
 **Coordinator & Examiner:** dr. J.M.A. Telg  
-
 Econometrics I lays the foundation for understanding and applying linear regression models to cross-sectional data. The course is divided into two periods:  
 - **Period 1:** Focus on simple linear regression (one explanatory variable)  
 - **Period 2:** Transition to multiple linear regression (matrix algebra approach)  
@@ -145,7 +144,3 @@ By the end of this course, you will be able to:
   - Francq and Zakoian (2011), *GARCH Models: Structure, Statistical Inference and Financial Applications*.  
   - Tsay (2010), *Analysis of Financial Time Series*.  
   - Gourieroux and Monfort (1996), *Simulation-Based Econometric Methods*.
-
-### Applicability
-- Useful for econometrics and non-econometrics students aiming to strengthen financial modeling skills.  
-- Offers hands-on experience in working with real-world financial time-series data.
