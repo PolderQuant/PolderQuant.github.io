@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Multivariate T & Stocks 10"
+author_profile: true
+
 ---
 
 # Introduction

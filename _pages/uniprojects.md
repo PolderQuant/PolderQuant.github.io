@@ -5,6 +5,7 @@ permalink: /uniprojects/
 collection: uniprojects
 entries_layout: grid
 classes: wide
+author_profile: true
 ---
 
 
